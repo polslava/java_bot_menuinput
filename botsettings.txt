@@ -1,0 +1,8 @@
+botUsername=StupinVS_itminebi_bot
+botToken=TOKEN
+botVersion=1.0
+ownerName=Ступин Вячеслав
+ownerAccount=@stupinvs
+ownerWebsite=stupinvs.org
+ownerGitHub=https://github.com/polslava/powerbi
+ownerChannel=@stupinv_itmine_bi
